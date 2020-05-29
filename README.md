@@ -1,1 +1,1 @@
-https://chrisvaillancourt.github.io/resume/
+https://chrisvaillancourt.github.io/cv-resume/
